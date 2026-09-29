@@ -171,12 +171,29 @@ sin BD, sin Wompi real, sin webhook
 ![Logotipo del proyecto](/images/test1.png)
 
 
-
+---
 # PROYECTO FRONTEND EN REACT
 
 
 ```
      https://github.com/RPA-java-developer/proyecto-Frontend-Tienda.git
+     
 ```
+
+<span style="color: #fa0d0d;">https://github.com/RPA-java-developer/proyecto-Frontend-Tienda.git</span>
+
+
+----
+
+
+# PROYECTO BACKEND COMPLETO para trabajo con EL FRONTEND
+
+```
+     RPA-java-developer/proyecto-Backend-TiendaWO.git
+     
+```
+
+<span style="color: #fa0d0d;">
+https://github.com/RPA-java-developer/proyecto-Backend-TiendaWO.git</span>
 
 
